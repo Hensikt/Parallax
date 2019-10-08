@@ -1,0 +1,22 @@
+body{
+    font-family: sans-serif;
+}
+
+.sectie{
+    min-height: 60vw;
+    border: 1px solid midnightblue;
+    /*background-attachment: fixed;*/
+    background-size: cover;
+}
+
+.sectie--2{
+    background-image: url("../img/background_1.jpg");
+}
+
+.sectie--4{
+    background-image: url("../img/background_2.jpg");
+}
+
+.sectie--6{
+    background-image: url("../img/background_3.jpg");
+}
